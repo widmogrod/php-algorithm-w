@@ -29,9 +29,13 @@ Sneak peek of one of [many test cases](./src/AlgorithmW/AlgorithmWTest.php) can 
 ```
 
 The main goal of this project is to understand type interference.
-After it, I can use gathered experience it the [typed-config](https://github.com/widmogrod/typed-config) project,
+
+In the project I used a library `php-functional` [2] to simplify implementation and make it closer to Haskell.
+
+Next step is to use gathered experience it the [typed-config](https://github.com/widmogrod/typed-config) project `[3]`,
 with is aiming to make configuration type safe, self-documenting, easy to extend and dead-simple to use.
 
 ## References
 - `[1]` [Algorithm W Step by Step](https://github.com/mgrabmueller/AlgorithmW)
 - `[2]` [php-functional](https://github.com/widmogrod/php-functional)
+- `[3]` [typed-config](https://github.com/widmogrod/typed-config)
