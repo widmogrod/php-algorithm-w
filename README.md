@@ -1,4 +1,4 @@
-# Algorithm W in PHP
+# Algorithm W in PHP [![Build Status](https://travis-ci.org/widmogrod/php-algorithm-w.svg?branch=master)](https://travis-ci.org/widmogrod/php-algorithm-w)
 ## Introduction
 Algorithm W implemented in PHP based on Martin Grabmüller work [1].
 
