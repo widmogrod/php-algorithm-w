@@ -4,7 +4,15 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/70bd6fed8962454e4c70/test_coverage)](https://codeclimate.com/github/widmogrod/php-algorithm-w/test_coverage)
 
 ## Introduction
-Algorithm W implemented in PHP based on Martin Grabmüller work [1].
+
+Yet another fascinating concept to explore - `type interference`.
+
+`Algorithm W` was implemented in PHP, and is based on **Martin Grabmüller** work [1].
+
+Project uses the `php-functional` library `[2]` to simplify implementation, and make it closer to `Haskell`.
+
+Next step is to use gathered experience it the [typed-config](https://github.com/widmogrod/typed-config) project `[3]`,
+with is aiming to make configuration type safe, self-documenting, easy to extend and dead-simple to use.
 
 Sneak peek of one of [many test cases](./src/AlgorithmW/AlgorithmWTest.php) can be interpreted
 ```php
@@ -27,13 +35,6 @@ Sneak peek of one of [many test cases](./src/AlgorithmW/AlgorithmWTest.php) can 
     'expected' => '(a5 -> a5)',
 ],
 ```
-
-The main goal of this project is to understand type interference.
-
-In the project I used a library `php-functional` [2] to simplify implementation and make it closer to Haskell.
-
-Next step is to use gathered experience it the [typed-config](https://github.com/widmogrod/typed-config) project `[3]`,
-with is aiming to make configuration type safe, self-documenting, easy to extend and dead-simple to use.
 
 ## References
 - `[1]` [Algorithm W Step by Step](https://github.com/mgrabmueller/AlgorithmW)
