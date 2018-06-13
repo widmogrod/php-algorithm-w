@@ -1,4 +1,8 @@
-# Algorithm W in PHP [![Build Status](https://travis-ci.org/widmogrod/php-algorithm-w.svg?branch=master)](https://travis-ci.org/widmogrod/php-algorithm-w)
+# Algorithm W in PHP 
+[![Build Status](https://travis-ci.org/widmogrod/php-algorithm-w.svg?branch=master)](https://travis-ci.org/widmogrod/php-algorithm-w) 
+[![Maintainability](https://api.codeclimate.com/v1/badges/70bd6fed8962454e4c70/maintainability)](https://codeclimate.com/github/widmogrod/php-algorithm-w/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/70bd6fed8962454e4c70/test_coverage)](https://codeclimate.com/github/widmogrod/php-algorithm-w/test_coverage)
+
 ## Introduction
 Algorithm W implemented in PHP based on Martin Grabmüller work [1].
 
